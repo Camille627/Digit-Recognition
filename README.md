@@ -14,8 +14,8 @@ The MNIST dataset is used for training. The images are:
 - Converted into 784-element vectors.
 - Labels are converted to one-hot encoding.
 
-# 🧠 Model Architechtures
-## Original
+## 🧠 Model Architechtures
+### Original
 The neural network consists of:
 - **A hidden layer** with 10 neurons and *Leaky ReLU* activation.
 - **An output layer** with 10 neurons and *softmax* activation.
@@ -24,7 +24,7 @@ Here is the accuracy evolution during training:
 
 ![Console screenshot that show an accuracy of 84% after 450 gradient descent](Results/digit_reco_v1_results.png)
 
-## Wide Network
+### Wide Network
 The neural network consists of:
 - A hidden layer with **392** neurons and *Leaky ReLU* activation.
 - A hidden layer with **64** neurons and *Leaky ReLU* activation.
@@ -34,7 +34,7 @@ Here is the accuracy evolution during training:
 
 ![Console screenshot that show an accuracy of 90% after 450 gradient descent](Results/digit_reco_v2_results.png)
 
-## Deep Network
+### Deep Network
 The neural network consists of:
 - A hidden layer with **124** neurons and *Leaky ReLU* activation.
 - A hidden layer with **64** neurons and *Leaky ReLU* activation.
@@ -52,12 +52,7 @@ This project enabled us to see how to classify data into more than two categorie
 - MNIST Dataset: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
 - Model Inspiration: [YouTube Video](https://www.youtube.com/watch?v=w8yWXqWQYmU)
 
-## 🛠 Package Used
-- Python
-- NumPy
-- Matplotlib
-
 ---
 👨‍💻 **Author: Camille ANSEL**  
-📅 **Date: 03/02/2025**
+📅 **Date: 03/02/2024**
 
