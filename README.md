@@ -45,7 +45,7 @@ Here is the accuracy evolution during training:
 
 ![Console screenshot that show an accuracy of 89% after 450 gradient descent](Results/digit_reco_v3_results.png)
 
-## 📊 Results
+## Conclusion
 This project enabled us to see how to classify data into more than two categories using the softmax function. We tried different achitechtures and it seems that the wider and deeper the network, the better the results. However, this also implies a longer training time and the gain is not as great as we expected. Perhaps we could look at more complex architectures or work with different data processing.
 
 ## 📜 References
