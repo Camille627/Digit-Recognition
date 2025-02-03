@@ -5,8 +5,7 @@ This project implements a neural network to recognize handwritten digits using t
 
 ## 📂 Project Contents
 - `digit_recognition.py`: Main script that loads data, trains the network, and tests accuracy.
-- `README.md`: Project documentation.
-- `accuracy_plot.png`: Graph illustrating accuracy evolution (generated after training).
+- `accuracy_plot.png`: Screenshot of the console illustrating accuracy evolution (generated after training).
 
 ## 📥 Data Preparation
 The MNIST dataset is used for training. The images are:
@@ -19,19 +18,6 @@ The MNIST dataset is used for training. The images are:
 The neural network consists of:
 - **A hidden layer** with 10 neurons and *Leaky ReLU* activation.
 - **An output layer** with 10 neurons and *softmax* activation.
-- **Optimization** using gradient descent and weight updates.
-
-## 🚀 Running the Project
-1. Clone the project:
-   ```bash
-   git clone https://github.com/your-repo/mnist-digit-recognition.git
-   cd mnist-digit-recognition
-   ```
-2. Run the Python script:
-   ```bash
-   python digit_recognition.py
-   ```
-3. Once training is complete, an image *accuracy_plot.png* is generated.
 
 ## 📊 Results
 Here is the accuracy evolution during training:
@@ -42,7 +28,7 @@ Here is the accuracy evolution during training:
 - MNIST Dataset: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
 - Model Inspiration: [YouTube Video](https://www.youtube.com/watch?v=w8yWXqWQYmU)
 
-## 🛠 Technologies Used
+## 🛠 Package Used
 - Python
 - NumPy
 - Matplotlib
