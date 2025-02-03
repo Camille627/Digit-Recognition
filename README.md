@@ -22,7 +22,7 @@ The neural network consists of:
 ## 📊 Results
 Here is the accuracy evolution during training:
 
-![Console screenshot that show an accuracy of 84% after 500 gradient descent](MNIST_results.png)
+![Console screenshot that show an accuracy of 84% after 500 gradient descent](Results/digit_reco_v1_results.png)
 
 ## 📜 References
 - MNIST Dataset: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
