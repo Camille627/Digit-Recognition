@@ -52,7 +52,3 @@ This project enabled us to see how to classify data into more than two categorie
 - MNIST Dataset: [https://github.com/cvdfoundation/mnist](https://github.com/cvdfoundation/mnist?tab=readme-ov-file)
 - Model Inspiration: [YouTube Video](https://www.youtube.com/watch?v=w8yWXqWQYmU)
 
----
-👨‍💻 **Author: Camille ANSEL**  
-📅 **Date: 03/02/2024**
-
