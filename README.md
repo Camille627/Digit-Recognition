@@ -49,7 +49,7 @@ Here is the accuracy evolution during training:
 This project enabled us to see how to classify data into more than two categories using the softmax function. We tried different achitechtures and it seems that the wider and deeper the network, the better the results. However, this also implies a longer training time and the gain is not as great as we expected. Perhaps we could look at more complex architectures or work with different data processing.
 
 ## 📜 References
-- MNIST Dataset: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
+- MNIST Dataset: [https://github.com/cvdfoundation/mnist](https://github.com/cvdfoundation/mnist?tab=readme-ov-file)
 - Model Inspiration: [YouTube Video](https://www.youtube.com/watch?v=w8yWXqWQYmU)
 
 ---
